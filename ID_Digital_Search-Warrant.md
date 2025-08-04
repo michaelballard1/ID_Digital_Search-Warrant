@@ -9,10 +9,6 @@
 <link href="/PPD-Digital-Device-Search-Warrant/css/chunk-vendors.de510de6.css" rel="stylesheet">
 <link href="/PPD-Digital-Device-Search-Warrant/css/app.d0f80ab4.css" rel="stylesheet">
 <style>
-  /* stylelint-disable */
-/* stylelint-enable */
-/** Buttons
----------------------------------------------------------*/
 :root {
   --transparent: rgba(255, 255, 255, 0);
   --white: hsl(0, 0%, 100%);
@@ -1114,11 +1110,7 @@
   background: #434e65;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root .day.dark-scheme {
-    background: #333;
-    color: white;
-  }
+@media (prefers-color-scheme: dark) {:root .day.dark-scheme {background: #333; color: white;}
   :root .night.dark-scheme {
     background: black;
     color: #ddd;
