@@ -307,8 +307,7 @@
   --tableTextColor: #484848;
 }
 
-/* stylelint-disable */
-/* stylelint-enable */
+
 .th-wq,
 .th-th {
   --toolbarBackgroundColor: var(--defaultColor);
